@@ -1,3 +1,2 @@
 # z1x-xrp-wallet
-private non commercial ripple / xrp wallet and xrpl browser
-
+Private non commercial ripple / xrp wallet & xrpl browser [build #172 / copyright(c) 2022 / license WTFPL]

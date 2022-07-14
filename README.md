@@ -1,2 +1,3 @@
 # z1x-xrp-wallet
-xrp wallet and xrpl browser
+private non commercial xrp wallet and xrpl browser
+

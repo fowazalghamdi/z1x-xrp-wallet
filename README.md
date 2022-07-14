@@ -5,4 +5,4 @@ Private non commercial ripple / xrp wallet & xrpl browser
 build #172 
 
 copyright(c) 2022 
-license WTFPL
+licensed under WTFPL

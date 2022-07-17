@@ -6,7 +6,7 @@
 👍 OFFLINE safe order/transaction signing<br/>
 👍 ONLINE safe order submission without secret keys<br/>
 👍 MULTISIG & REGULARKEY features running app copies on multiple devices<br/>
-🚧👷🛠️ ***HOOKS*** the essential safe smart contracts <br/>
+🚧👷🛠️ ***HOOKS***: the essential safe smart contracts <br/>
 
 ## TECH NOTES:<br/>
 #### ✓ TOOLS:<br/>
@@ -14,7 +14,7 @@ just vanilla typescript, es2020, html,<br/>
 bootstrap, nodejs, visual studio code<br/>
 WIETSE XRPLLABS TOOLS<br/>
     - [xrpl client lib](https://xrpl.org/)<br/>
-    - [xrpl hooks](http://hooks.xrpl.org)<br/>
+    - [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
 
 ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 

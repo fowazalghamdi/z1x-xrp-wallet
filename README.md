@@ -9,7 +9,7 @@ just vanilla typescript, es2020, html, bootstrap
 nodejs
 visual studio code<br/>
 [xrpl client lib](https://xrpl.org/)<br/>
-[xrpl-hooks](http://hooks.xrpl.org)
+[xrpl hooks](http://hooks.xrpl.org)
 
 clean asynchrony using just "async" & "await", <br/>
 

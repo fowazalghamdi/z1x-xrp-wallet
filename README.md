@@ -5,7 +5,7 @@
 👍 runs without installation, just unzip the files in your chosen folder and open it in your browser.<br/>
 👍 OFFLINE safe order/transaction signing<br/>
 👍 ONLINE safe order submission without secret keys<br/>
-👍 MULTISIG & REGULARKEY running app copies on multiple devices<br/>
+👍 MULTISIG & REGULARKEY features running app copies on multiple devices<br/>
 🚧👷🛠️ ***HOOKS*** <br/>
 
 ## TECH NOTES:<br/>

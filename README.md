@@ -6,7 +6,7 @@
 👍 OFFLINE safe order/transaction signing<br/>
 👍 ONLINE safe order submission without secret keys<br/>
 👍 MULTISIG & REGULARKEY features running app copies on multiple devices<br/>
-🚧👷🛠️ ***HOOKS*** <br/>
+🚧👷🛠️ ***HOOKS*** the essential safe smart contracts <br/>
 
 ## TECH NOTES:<br/>
 #### ✓ TOOLS:<br/>

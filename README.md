@@ -4,7 +4,10 @@
 👍 OFFLINE safe order signing and multisigning <br/>
 👍 ONLINE safe order submission without secret keys<br/>
 
-### 👍 TOOLS:<br/>
+
+
+## 👍 TECH NOTES:<br/>
+#### 👍 TOOLS:<br/>
 just vanilla typescript, es2020, html, bootstrap
 nodejs
 visual studio code<br/>
@@ -17,7 +20,7 @@ not using chrome engine for now.<br/>
 
 
 
-### 💩 TRASH 🗑:<br/>
+#### 💩 TRASH 🗑:<br/>
 jquery angular reactjs react native webpack babel 💩<br/>
 used by the majority of programmers💩, <br/>
 but, as we know, anyone can easily prove that <br/>

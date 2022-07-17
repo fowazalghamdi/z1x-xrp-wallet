@@ -12,9 +12,10 @@
 #### ✓ TOOLS:<br/>
 just vanilla typescript, es2020, html,<br/>
 bootstrap, nodejs, visual studio code<br/>
-WIETSE XRPLLABS TOOLS<br/>
+Wietse XRPLLabs Tools<br/>
     - [xrpl client lib](https://xrpl.org/)<br/>
     - [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
+    - [many others](https://github.com/f1f47a23?tab=stars)<br/>
 
 ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 

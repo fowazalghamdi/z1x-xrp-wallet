@@ -20,11 +20,6 @@ not using chrome engine for now.<br/>
 
 
 
-#### 💩 TRASH 🗑:<br/>
-jquery angular reactjs react native webpack babel 💩<br/>
-used by the majority of programmers💩, <br/>
-but, as we know, anyone can easily prove that <br/>
-"the majority is always wrong".
 
 
 

@@ -13,7 +13,7 @@ clean asynchrony using just "async" & "await",
 tools in the trash 🗑💩:
 jquery angular reactjs react native webpack babel 💩
 used by the majority of programmers💩, 
-but anyone can easily prove that 
+but, as we know, anyone can easily prove that 
 "the majority is always wrong".
 
 

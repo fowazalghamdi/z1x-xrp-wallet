@@ -10,8 +10,10 @@ visual studio code
 
 
 tools in the trash 🗑💩:
-jquery reactjs react native webpack babel
-used by the majority of programmers, but anyone can easily prove that "the majority is always wrong".
+jquery reactjs react native webpack babel 💩
+used by the majority of programmers💩, 
+but anyone can easily prove that 
+"the majority is always wrong".
 
 
 

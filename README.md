@@ -3,7 +3,7 @@
 
 👍 OFFLINE safe order signing<br/>
 👍 ONLINE safe order submission without secret keys<br/>
-👍 regularkey and multisig<br/>
+👍 MULTISIG & REGULARKEY<br/>
 🚧👷🛠️ ***HOOKS*** <br/>
 
 ## 👍 TECH NOTES:<br/>

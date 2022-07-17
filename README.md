@@ -8,7 +8,7 @@
 👍 MULTISIG & REGULARKEY features running app copies on multiple devices<br/>
 🚧👷🛠️ ***HOOKS***: the essential safe smart contracts <br/>
 
-## TECH NOTES:<br/>
+## Tech notes:<br/>
 #### ✓ TOOLS:<br/>
 just vanilla typescript, es2020, html,<br/>
 bootstrap, nodejs, visual studio code<br/>

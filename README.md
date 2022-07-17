@@ -9,5 +9,9 @@ visual studio code
 [xrpl-hooks](http://hooks.xrpl.org)
 
 
+tools in the trash 🗑💩:
+jquery reactjs react native webpack babel
+used by the majority of programmers, but anyone can easily prove that "the majority is always wrong".
+
 
 

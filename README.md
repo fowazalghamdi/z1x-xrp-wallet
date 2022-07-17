@@ -1,7 +1,7 @@
 # z1x-xrp-wallet
 Private ripple / xrp wallet & xrpl browser
 
-👍 offline safe order signing and multisigning
+👍 offline safe order signing and multisigning <br/>
 👍 online safe order submission without secret keys
 
 👍 TOOLS:

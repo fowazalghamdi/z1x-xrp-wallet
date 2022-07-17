@@ -14,9 +14,9 @@ visual studio code<br/>
 [xrpl client lib](https://xrpl.org/)<br/>
 [xrpl hooks](http://hooks.xrpl.org)
 
-clean asynchrony just using "async" & "await", <br/>
+clean simple asynchrony just using "async" & "await", <br/>
 
-not using chrome engine for now.<br/>
+not using ~~chrome engine~~ for now.<br/>
 
 
 

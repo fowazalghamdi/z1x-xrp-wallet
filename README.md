@@ -8,17 +8,16 @@
 👍 MULTISIG & REGULARKEY running app copies on multiple devices<br/>
 🚧👷🛠️ ***HOOKS*** <br/>
 
-## 👍 TECH NOTES:<br/>
-#### 👍 TOOLS:<br/>
-just vanilla typescript, es2020, html, bootstrap
-nodejs
-visual studio code<br/>
+## TECH NOTES:<br/>
+#### ✓ TOOLS:<br/>
+just vanilla typescript, es2020, html,<br/>
+bootstrap, nodejs, visual studio code<br/>
 [xrpl client lib](https://xrpl.org/)<br/>
 [xrpl hooks](http://hooks.xrpl.org)
 
-clean simple asynchrony just using "async" & "await", <br/>
+✓ Clean and simple asynchrony just using "async" & "await" <br/>
 
-not using ~~chrome engine~~ for now.<br/>
+✓ not using ~~chrome engine~~ for now.<br/>
 
 
 

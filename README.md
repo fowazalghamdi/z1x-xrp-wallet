@@ -1,7 +1,10 @@
 # z1x-xrp-wallet
 Private ripple / xrp wallet & xrpl browser
 
-tools:
+offline safe order signing and multisigning
+online safe order submission without secret keys
+
+TOOLS:
 just vanilla typescript, es2020, html, bootstrap
 nodejs
 visual studio code
@@ -10,7 +13,11 @@ visual studio code
 
 clean asynchrony using just "async" & "await", 
 
-tools in the trash 🗑💩:
+not using chrome engine for now.
+
+
+
+TRASH 🗑💩:
 jquery angular reactjs react native webpack babel 💩
 used by the majority of programmers💩, 
 but, as we know, anyone can easily prove that 

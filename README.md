@@ -8,6 +8,7 @@ visual studio code
 [xrpl client lib](https://xrpl.org/)
 [xrpl-hooks](http://hooks.xrpl.org)
 
+clean asynchrony using just "async" & "await", 
 
 tools in the trash 🗑💩:
 jquery reactjs react native webpack babel 💩

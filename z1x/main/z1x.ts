@@ -21,4 +21,4 @@ class CApp {
 
 const z1x = { CApp: CApp };
 
-(() => z1x.CApp.run())();
+(() => z1x.CApp.run())(); // no need to wait here

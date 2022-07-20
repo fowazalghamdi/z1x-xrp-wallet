@@ -3,7 +3,7 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-#### ✓ Features:<br/>
+#### ✓ FEATURES:
 
 👍 OS independent, runs in any browser on any device, offline and online.<br/>
 👍 runs without installation, just unzip the files in your chosen folder and open it in your browser.<br/>
@@ -14,10 +14,10 @@
 🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for cryptoes<br/>
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-## Tech notes:<br/>
+## Tech notes:
 
 
-#### ✓ TOOLS:<br/>
+#### ✓ TOOLS:
 
 just vanilla typescript, es2020, html, bootstrap, nodejs, visual studio code<br/>
 

@@ -2,7 +2,7 @@
 ## Private ripple / xrp wallet & explorer<br/>
 
 
-###✓ FEATURES:###
+✓ FEATURES:
 
 
  👍 OS independent, runs in any browser on any device, offline and online.<br/>
@@ -19,7 +19,7 @@
 ## Tech notes:
 
 
-#### ✓ TOOLS:
+✓ TOOLS:
 
 just vanilla typescript, es2020, html, bootstrap, nodejs, visual studio code<br/>
 

@@ -3,8 +3,7 @@
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-
-#### ✓ FEATURES:
+✓ FEATURES:
 
 
  👍 OS independent, runs in any browser on any device, offline and online.<br/>

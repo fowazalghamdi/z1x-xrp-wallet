@@ -19,8 +19,7 @@
 
 #### ✓ TOOLS:<br/>
 
-just vanilla typescript, es2020, html,<br/>
-bootstrap, nodejs, visual studio code<br/>
+just vanilla typescript, es2020, html, bootstrap, nodejs, visual studio code<br/>
 
 Wietse XRPLLabs Tools<br/>
     - [xrpl client lib](https://xrpl.org/)<br/>

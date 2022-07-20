@@ -24,9 +24,9 @@
   just vanilla typescript, es2020, html, bootstrap, nodejs, visual studio code<br/>
 
   #### Wietse XRPLLabs Tools
-    - [xrpl client lib](https://xrpl.org/)<br/>
-    - [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
-    - [many others](https://github.com/f1f47a23?tab=stars)<br/>
+    [xrpl client lib](https://xrpl.org/)<br/>
+    [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
+    [many others](https://github.com/f1f47a23?tab=stars)<br/>
 
 ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 

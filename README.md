@@ -14,7 +14,7 @@
  🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for cryptoes<br/>
 
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 ## Tech notes:
 
@@ -32,7 +32,7 @@ Wietse XRPLLabs Tools<br/>
 
 ✓ not using ~~chrome engine~~ for now.<br/>
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 

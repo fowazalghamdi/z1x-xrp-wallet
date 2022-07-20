@@ -4,17 +4,16 @@
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-
 #### ✓ FEATURES:
 
 
-👍 OS independent, runs in any browser on any device, offline and online.<br/>
-👍 runs without installation, just unzip the files in your chosen folder and open it in your browser.<br/>
-👍 OFFLINE safe order/transaction signing<br/>
-👍 ONLINE safe order submission without secret keys<br/>
-👍 REGULARKEY alternative key<br/>
-👍 MULTISIG feature by running copies of the app on multiple devices<br/>
-🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for cryptoes<br/>
+ 👍 OS independent, runs in any browser on any device, offline and online.<br/>
+ 👍 runs without installation, just unzip the files in your chosen folder and open it in your browser.<br/>
+ 👍 OFFLINE safe order/transaction signing<br/>
+ 👍 ONLINE safe order submission without secret keys<br/>
+ 👍 REGULARKEY alternative key<br/>
+ 👍 MULTISIG feature by running copies of the app on multiple devices<br/>
+ 🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for cryptoes<br/>
 
 
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~

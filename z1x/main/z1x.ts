@@ -1,6 +1,6 @@
 
 
-//export { CApp };
+export { CApp };
 
 
 class CApp {
@@ -19,6 +19,6 @@ class CApp {
 
 
 
-const z1x = { CApp: CApp };
+const z1x = { CApp: CApp }; // workaround javascript namespaces
 
-(() => z1x.CApp.run())(); // no need to wait here
+

@@ -21,18 +21,18 @@
 
 ### ✓ TOOLS:
 
-  Just vanilla typescript, es2020, html, bootstrap, nodejs, npm, visual studio code<br/>
+ ✓ Just vanilla typescript, es2020, html, bootstrap, nodejs, npm, visual studio code<br/>
 
-  Wietse XRPLLabs Tools:<br/>
+ ✓ Wietse XRPLLabs Tools:<br/>
     [xrpl client lib](https://xrpl.org/)<br/>
     [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
     [many others](https://github.com/f1f47a23?tab=stars)<br/>
 
-✓ Clean and simple asynchrony just using "async" & "await" <br/>
+ ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 
-✓ Not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
+ ✋ Not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
 
-⛔ Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdated): 🗑️ all in the trash<br/>
+ ⛔ Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdated): 🗑️ all in the trash<br/>
 
 
 

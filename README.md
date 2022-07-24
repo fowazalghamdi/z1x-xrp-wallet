@@ -11,7 +11,7 @@
  👍 ONLINE safe order submission without secret keys<br/>
  👍 REGULARKEY alternative key<br/>
  👍 MULTISIG feature by running copies of the app on multiple devices<br/>
- 🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for cryptoes<br/>
+ 🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
 
 
 

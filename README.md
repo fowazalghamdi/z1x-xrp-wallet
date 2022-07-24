@@ -32,7 +32,7 @@
 
 ✓ Not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
 
-⛔🗑️💩😭 Hosting Server, React/React Native, Angular, Webpack, Jquery(⌛outofdated🦴): all in the trash<br/>
+⛔ Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdated): 🗑️ all in the trash<br/>
 
 
 

@@ -21,7 +21,7 @@
 
 ### ✓ TOOLS:
 
-  just vanilla typescript, es2020, html, bootstrap, nodejs, visual studio code<br/>
+  just vanilla typescript, es2020, html, bootstrap, nodejs, npm, visual studio code<br/>
 
   Wietse XRPLLabs Tools:<br/>
     [xrpl client lib](https://xrpl.org/)<br/>
@@ -30,7 +30,9 @@
 
 ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 
-✓ not using ~~chrome engine~~ for now.<br/>
+✓ not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
+
+⛔🗑️💩😭 React/React Native, Angular, Webpack, jquery(outofdate): all in the trash<br/>
 
 
 

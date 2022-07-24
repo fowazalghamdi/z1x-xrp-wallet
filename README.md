@@ -10,7 +10,7 @@
  👍 OFFLINE safe order/transaction signing<br/>
  👍 ONLINE safe order submission without secret keys<br/>
  👍 REGULARKEY alternative key<br/>
- 👍 MULTISIG feature by running copies of the app on multiple devices<br/>
+ 👍 MULTISIG feature by optionally running copies of the app on multiple devices<br/>
  🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
 
 
@@ -21,7 +21,7 @@
 
 ### ✓ TOOLS:
 
-  just vanilla typescript, es2020, html, bootstrap, nodejs, npm, visual studio code<br/>
+  Just vanilla typescript, es2020, html, bootstrap, nodejs, npm, visual studio code<br/>
 
   Wietse XRPLLabs Tools:<br/>
     [xrpl client lib](https://xrpl.org/)<br/>
@@ -30,9 +30,9 @@
 
 ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 
-✓ not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
+✓ Not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
 
-⛔🗑️💩😭 React/React Native, Angular, Webpack, jquery(outofdate): all in the trash<br/>
+⛔🗑️💩😭 Hosting Server, React/React Native, Angular, Webpack, jquery(outofdate): all in the trash<br/>
 
 
 

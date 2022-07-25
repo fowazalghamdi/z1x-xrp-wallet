@@ -39,7 +39,8 @@ WHY SHOULD YOU NEVER USE REACTJS?
 
 The basic file size of React is over 100kb. That’s just the basic file size! 
 To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
-It really isn’t worth the extra bloat it adds to websites… just to create a view layer on the front-end.
+It really isn’t worth the extra bloat it adds to websites… just to create a view layer on the front-end. It's stupid
+
 
 
 
@@ -104,17 +105,8 @@ use semantically correct code, comply with Web Standards, and not have any code 
 
 
 
-
-
  
-***********************************************************************************************************
-***********************************************************************************************************
-***********************************************************************************************************
-***********************************************************************************************************
- 
- 
- 
- WHY REACTJS IS PURE CR4P
+IT'S PURE CR4P
 
 
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. 
@@ -130,7 +122,7 @@ IT's MOSTLY HYPE
 
 In the business world of upper managers React has become something of a buzzword. 
 I have worked for several companies that have had upper managers that decided that every front-end is going to use React 
-for no other reason than they think it’s popular. 
+for no other reason than they think it’s popular. Don't forget: the majority is always wrong. 
 Right away whenever you have non-technical upper managers making development decisions you know nothing good is going to come out of it. 
 While React may be popular, I don’t think you can say that it’s the right thing to use based ONLY on its popularity.
 
@@ -178,13 +170,14 @@ REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
 Many people think that React is unique because it uses virtual DOM for rendering. 
 What you may not realize, is that React and the virtual DOM are 2 separate concepts entirely. 
 You may be interested to know that Vue along with a bunch of smaller libraries also makes use of the virtual DOM. 
-Many people praise the virtual DOM for being this fast revolutionary technology. However, it appears that the virtual DOM is nothing but a memory hog.
+Many people praise the virtual DOM for being this fast revolutionary technology. 
+However, it appears that the virtual DOM is nothing but a memory hog.
 
 If you’re not familiar with how the virtual DOM operates, allow me to enlighten you. 
 Basically what happens is that the virtual DOM keeps a copy of the DOM tree in the client’s memory. 
 Then when a change occurs a new virtual DOM tree is built and diffed with the old tree. 
 Then React will apply those transformations to the browser so those changes are visible to the user.
-Here’s a little diagram of how the virtual DOM works
+Here’s a little diagram of how the virtual DOM works [....]
 
 The gray tree on the left is the incoming change and the gray tree on the right is the old information. 
 Then the result is that one node was removed and another was added elsewhere in the tree. 

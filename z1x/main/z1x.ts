@@ -31,11 +31,11 @@ const z1x = { CApp: CApp }; // workaround javascript namespaces
  ****************************************************************************************************************
  
 
-WHY SHOULD YOU NEVER USE REACTJS?
+***************   WHY SHOULD YOU NEVER USE REACTJS?  ***************
 
 
 
-1. It’s unnecessarily large
+IT's UNNECESSARILY LARGE 
 
 The basic file size of React is over 100kb. That’s just the basic file size! 
 To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
@@ -46,10 +46,10 @@ It really isn’t worth the extra bloat it adds to websites… just to create a 
 
 
 
-2. IT's NOT SEMANTICALLY CORRECT CODE
+IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
 
 All of the code that creates the components that are rendered to the browser are written in JavaScript files. 
-This means that whole sections of HTML code is written in files where it does not belong. 
+This means that whole sections of HTML code is written in files where it does not belong!!!!!!! 
 Only the smallest snippets of HTML are acceptable in a JavaScript file, when used within the $.html(); 
 function of jQuery or other functions which output the code.
 To merge Html with code is a very very very bad idea.  AWFUL
@@ -61,7 +61,7 @@ Only imbeciles merge html with javascript.  F*ckoff JSX!!!
 
 
 
-3. IT's NOT STANDARDS COMPLIANT
+IT's NOT STANDARDS COMPLIANT 
 
 One of the most basic of Web Standards is that all websites must load 70-80% of the content 
 on every page correctly when JavaScript is disabled. 
@@ -76,7 +76,7 @@ This means that if the user decides to have JavaScript disabled, the site will n
 
 
 
-4. It’s super slow
+IT's SUPER SLOW
 
 When using React, page load speeds are greatly reduced. 
 This is because JavaScript functions are running in the browser to load 
@@ -91,7 +91,7 @@ causing visitors to leave the site and look elsewhere for the information they w
 
 
 
-5. It’s 9 times out of 10 the wrong context to use it
+IT's 90% THE WRONG CONTEXT TO USE IT
 
 React is built for Web Apps! These are applications that run in the browser that process ‘big data’, 
 and have constantly refreshing elements of the page. Facebook is a Web App, 
@@ -203,7 +203,7 @@ For smaller apps, this can be pretty negligible, but if you have a large and com
 
 
 
-Complexity is key
+COMPLEXITY IS KEY
 
 If you’ve ever worked on a large application that is fairly complex, 
 you’ll recognize that standards are the key to ensuring that you don’t hate your life. 
@@ -225,7 +225,7 @@ we get a large complex application that is hellish to work and functions poorly.
 
 
 
-Appliances sold separately
+APPLIANCES SOLD SEPARATELY
 
 I mentioned React is a library, but what does that mean for us? Basically, 
 it means that React is going to give you some minor functionality and then leave you to it. 
@@ -254,7 +254,7 @@ With Angular, you don’t have to download any 3rd party form handling or testin
 
 
 
-Upgrades people, upgrades
+UPGRADES NIGHTMARE
 
 Version updates happen to us all. 
 One second we’re on version 1.0.0 and all of a sudden version 2.0.0 has just hit and it’s shiny and new and we just want to play with it. 
@@ -271,7 +271,7 @@ I think only adds stress to the lives of the developers using it.
 
 
 
-It’s a wrap
+IT's a WRAP
 
 I think React has a place in the world of front-end development, 
 but I think it’s vastly overused in places it just doesn’t belong. 

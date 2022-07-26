@@ -29,10 +29,12 @@
     [many others](https://github.com/f1f47a23?tab=stars)<br/>
 
  ✓ Clean and simple asynchrony just using "async" & "await" <br/>
+ 
+ ✓ Just cmd batch procedures 2 pack & build releases (instead of Webpack-4-dogs)
 
- ✋ Not using ~~chrome engine~~  ~~Babel~~ & ~~git(4 slaves)~~ 4 now.<br/>
+ ✋ Not using ~~Chrome Engine~~  ~~Babel~~ & ~~git-4-slaves~~ 4 now.<br/>
 
- ⛔ Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdate): 🗑️ all in the trash<br/>
+ ⛔ ~~Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdate)~~: 🗑️ all in the trash<br/>
 
 
 

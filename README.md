@@ -34,7 +34,7 @@
 
  ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git-4-slaves~~ 4 now.<br/>
 
- ⛔ ~~Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery-outofdate~~: 🗑️ all in the trash<br/>
+ ⛔ ~~Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery-outofdate~~: 🗑️ [all in the trash](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes/tools.ts)<br/>
 
 
 

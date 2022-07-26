@@ -30,7 +30,7 @@
 
  ✓ Clean and simple asynchrony just using "async" & "await" <br/>
 
- ✋ Not using ~~chrome engine~~ and ~~Babel~~ for now.<br/>
+ ✋ Not using ~~chrome engine~~  ~~Babel~~ & ~~git(4 slaves)~~ 4 now.<br/>
 
  ⛔ Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdate): 🗑️ all in the trash<br/>
 

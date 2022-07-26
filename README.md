@@ -32,7 +32,7 @@
  
  ✓ Just cmd batch procedures 2 pack & build releases (instead of Webpack-4-dogs🦴)
 
- ✋ Not using ~~Chrome Engine~~  ~~Babel~~ & ~~git-4-slaves~~ 4 now.<br/>
+ ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git-4-slaves~~ 4 now.<br/>
 
  ⛔ ~~Hosting Server,   💩 React/React Native,   😭 Angular,   🦴  Webpack,   ⌛ Jquery(outofdate)~~: 🗑️ all in the trash<br/>
 

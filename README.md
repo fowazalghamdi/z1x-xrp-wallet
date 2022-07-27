@@ -33,7 +33,7 @@
 
  ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git~~ 4 now.<br/>
 
- ⛔ ~~Hosting Server   💩 React/React Native   😭 Angular   🦴  Webpack   ⌛ Jquery 🗑️ all in the trash<br/>
+ ⛔ ~~Hosting Server   💩 React/React Native   😭 Angular   🦴  Webpack   ⌛ Jquery~~ 🗑️ all in the trash<br/>
 
 
 

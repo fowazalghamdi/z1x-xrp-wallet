@@ -45,9 +45,7 @@ All of the code that creates the components that are rendered to the browser are
 This means that whole sections of HTML code is written in files where it does not belong!!!!!!! 
 Only the smallest snippets of HTML are acceptable in a JavaScript file, when used within the $.html(); 
 function of jQuery or other functions which output the code.
-To merge Html with code is a very very very bad idea.  AWFUL
-Only imbeciles merge html with javascript.  F*ckoff JSX!!!
-      
+Mixing Html with JS code is a very very very bad idea.     
       
       
 IT's NOT STANDARDS COMPLIANT 

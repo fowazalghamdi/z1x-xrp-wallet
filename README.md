@@ -30,11 +30,10 @@
 
  ✓ Clean and simple asynchrony just using "async" & "await" <br/>
  
- ✓ Just cmd batch procedures 2 pack & build releases (instead of Webpack-4-dogs🦴)
 
- ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git-4-slaves~~ 4 now.<br/>
+ ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git~~ 4 now.<br/>
 
- ⛔ ~~Hosting Server & KYC,   💩 React/React Native,   😭 Angular,   🦴  Webpack-4-dogs,   ⌛ Jquery-outofdate~~: 🗑️ all in the [trash](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes/tools.ts)<br/>
+ ⛔ ~~Hosting Server   💩 React/React Native   😭 Angular   🦴  Webpack   ⌛ Jquery 🗑️ all in the trash<br/>
 
 
 

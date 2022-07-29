@@ -9,7 +9,7 @@
 
 [smart contracts](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps)<br>
 
-p2p [¹](https://github.com/stars/f1f47a23/lists/p2p-holochain) [²](github.com/topics/p2p)<br>
+p2p [¹](https://github.com/stars/f1f47a23/lists/p2p-holochain) [²](https://github.com/topics/p2p)<br>
 
 [awesome](https://github.com/stars/f1f47a23/lists/awesome)<br>
 

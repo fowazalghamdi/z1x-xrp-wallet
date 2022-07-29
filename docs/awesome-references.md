@@ -9,6 +9,6 @@
 [awesome](https://github.com/stars/f1f47a23/lists/awesome)<br>
 <br><br>
 and ... <br>
-[es2022](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle)<br>
+[es2022](https://deliciousinsights.github.io/confoo-es2022/#/mainTitle) (https://yagmurcetintas.com/journal/whats-new-in-es2022)<br>
 []()<br>
 []()<br>

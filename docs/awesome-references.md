@@ -3,11 +3,11 @@
 
 [xrpl-hooks](https://github.com/stars/f1f47a23/lists/xrpl-hooks)<br>
 
-[xrpl](https://github.com/stars/f1f47a23/lists/xrpl)<br>
+xrpl [¹](https://github.com/stars/f1f47a23/lists/xrpl) [²](https://github.com/topics/xrpl)<br>
 
-[xrp ripple](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem)<br>
+xrp ripple [¹](https://github.com/stars/f1f47a23/lists/ripple-xrp-ecosystem) [²](https://github.com/topics/xrp)<br>
 
-[smart contracts](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps)<br>
+smart contracts [¹](https://github.com/stars/f1f47a23/lists/smart-contracts-dapps) [²](https://github.com/topics/ethereum)<br>
 
 p2p [¹](https://github.com/stars/f1f47a23/lists/p2p-holochain) [²](https://github.com/topics/p2p)<br>
 

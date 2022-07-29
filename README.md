@@ -7,10 +7,10 @@
 
  👍 OS independent, runs in any browser on any device, offline and online.<br/>
  👍 runs without installation, just unzip the files in your chosen folder and open it in your browser.<br/>
- 👍 OFFLINE safe order/transaction signing<br/>
- 👍 ONLINE safe order submission without secret keys<br/>
+ 👍 OFFLINE safe order/transaction SIGNING<br/>
+ 👍 ONLINE safe order SUBMISSION without secret keys<br/>
  👍 REGULARKEY alternative key<br/>
- 👍 MULTISIG feature by optionally running copies of the app on multiple devices<br/>
+ 👍 [MULTISIGN](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices<br/>
  🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
 
 

@@ -11,7 +11,8 @@ class CApp {
         
         let x = new CApp();
  
-        // x.jumpIntoVirtualDimension();
+        // Nothing to see here, move along
+        // x.jumpIntoVirtualDimension(); 
 
         return x;
     }

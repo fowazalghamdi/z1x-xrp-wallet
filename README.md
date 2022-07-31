@@ -2,7 +2,7 @@
 ## Private ripple / xrp wallet & explorer<br/>
 
 <br/><br/><br/>
-### ✓ FEATURES:
+### FEATURES:
 
 
  👍 OS independent, runs in any browser on any device, offline and online.<br/>
@@ -13,12 +13,10 @@
  👍 [MULTISIGN](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices<br/>
  🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
 
+<br/><br/>
+### [TECH NOTES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes.md)
 
-
-<br/><br/><br/>
-## [TECH NOTES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes.md)
-
-## [REFERENCES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/awesome-references.md)
+### [REFERENCES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/awesome-references.md)
 
 
 

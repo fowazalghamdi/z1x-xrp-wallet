@@ -25,7 +25,7 @@ const z1x = { CApp: CApp }; // workaround javascript namespaces
 
 
 // dummy notes just to increase the % of typescript language vs html
-// remove this sh1t when source code published (after ethereum 4.0 sharding release)
+// remove this sh1t when source code published (after ethereum 4.0 turbo-sharding release)
 /**************************************************************************************************************** 
  ****************************************************************************************************************
  ****************************************************************************************************************

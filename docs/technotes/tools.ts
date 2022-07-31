@@ -2,7 +2,7 @@
 
 export { CTools };
 
-
+// Nothing to see here, move along
 class CTools {
 
     static async doNothingAtall(): Promise<CTools> {
@@ -33,13 +33,6 @@ const z1x = { CTools: CTools }; // workaround javascript namespaces
 ***************   WHY SHOULD YOU NEVER USE REACTJS?  ***************
       
       
-IT's UNNECESSARILY LARGE 
-    
-The basic file size of React is over 100kb. That’s just the basic file size! 
-To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
-It really isn’t worth the extra bloat it adds to websites… just to create a view layer on the front-end. 
-
-      
       
 IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
       
@@ -59,6 +52,50 @@ React runs in JavaScript, meaning the whole page is created via a front-end lang
 Functions are available to run the initial page load on the server and serve that to the browser, 
 however anything that happens after this will now function. 
 This means that if the user decides to have JavaScript disabled, the site will not function correctly.
+     
+     
+     
+     
+IT's UNNECESSARILY LARGE 
+    
+The basic file size of React is over 100kb. That’s just the basic file size! 
+To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
+It really isn’t worth the extra bloat it adds to websites… just to create a view layer on the front-end. 
+
+
+
+REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
+      
+Many people think that React is unique because it uses virtual DOM for rendering. 
+What you may not realize, is that React and the virtual DOM are 2 separate concepts entirely. 
+You may be interested to know that Vue along with a bunch of smaller libraries also makes use of the virtual DOM. 
+Many people praise the virtual DOM for being this fast revolutionary technology. 
+However, it appears that the virtual DOM is nothing but a memory hog.
+
+If you’re not familiar with how the virtual DOM operates, allow me to enlighten you. 
+
+Basically what happens is that the virtual DOM keeps a copy of the DOM tree in the client’s memory. 
+Then when a change occurs a new virtual DOM tree is built and diffed with the old tree. 
+Then React will apply those transformations to the browser so those changes are visible to the user.
+Here’s a little diagram of how the virtual DOM works [....]
+The gray tree on the left is the incoming change and the gray tree on the right is the old information. 
+Then the result is that one node was removed and another was added elsewhere in the tree. 
+This causes every render to become an expensive memory-intensive operation. 
+This is not ideal if you’re hoping your app will run smoothly on a mobile phone.
+You may be thinking at this point “oh but there are plenty of React apps that run just fine on a mobile phone”. 
+
+It pays to remember that just because it does work, doesn’t mean it’s working well. 
+
+While your computer, tablet, or phone may have sufficient memory to run these kinds of operations does that really mean we want to? 
+I would also like to point out that this doesn’t fully prevent you from having a web app that does actually run well, 
+but it means you have to do a lot more work and be a lot more careful if you want it to actually run well.
+The virtual DOM has one more drawback, it’s fat and you can’t tree shake it. What is tree shaking? Basically, 
+tree shaking is the process of removing things from your final build that you don’t need or don’t use. 
+The virtual DOM is not tree-shakable because you will never know what you need until you hit the runtime. 
+This means that you have to send the whole thing instead of a smaller lighter version. 
+This has another obvious draw on your app’s performance in that your build ALWAYS has to include the whole virtual DOM. 
+For smaller apps, this can be pretty negligible, but if you have a large and complex application this can become a nightmare.
+      
       
       
 IT's SUPER SLOW
@@ -68,6 +105,9 @@ This is because JavaScript functions are running in the browser to load
 the content from the server and render it through the React functions, before displaying it in the browser. 
 Page load speeds can have a detrimental effect on the SEO of the website, 
 causing visitors to leave the site and look elsewhere for the information they were trying to find.
+      
+      
+      
       
       
 IT's 90% THE WRONG CONTEXT TO USE IT
@@ -124,34 +164,7 @@ Now you’re stuck having to refactor large amounts of your codebase.
 Often time when that happens what do you do? You jerry-rig it up until it works fine and then you never touch it again.
       
       
-REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
-      
-Many people think that React is unique because it uses virtual DOM for rendering. 
-What you may not realize, is that React and the virtual DOM are 2 separate concepts entirely. 
-You may be interested to know that Vue along with a bunch of smaller libraries also makes use of the virtual DOM. 
-Many people praise the virtual DOM for being this fast revolutionary technology. 
-However, it appears that the virtual DOM is nothing but a memory hog.
-If you’re not familiar with how the virtual DOM operates, allow me to enlighten you. 
-Basically what happens is that the virtual DOM keeps a copy of the DOM tree in the client’s memory. 
-Then when a change occurs a new virtual DOM tree is built and diffed with the old tree. 
-Then React will apply those transformations to the browser so those changes are visible to the user.
-Here’s a little diagram of how the virtual DOM works [....]
-The gray tree on the left is the incoming change and the gray tree on the right is the old information. 
-Then the result is that one node was removed and another was added elsewhere in the tree. 
-This causes every render to become an expensive memory-intensive operation. 
-This is not ideal if you’re hoping your app will run smoothly on a mobile phone.
-You may be thinking at this point “oh but there are plenty of React apps that run just fine on a mobile phone”. 
-It pays to remember that just because it does work, doesn’t mean it’s working well. 
-While your computer, tablet, or phone may have sufficient memory to run these kinds of operations does that really mean we want to? 
-I would also like to point out that this doesn’t fully prevent you from having a web app that does actually run well, 
-but it means you have to do a lot more work and be a lot more careful if you want it to actually run well.
-The virtual DOM has one more drawback, it’s fat and you can’t tree shake it. What is tree shaking? Basically, 
-tree shaking is the process of removing things from your final build that you don’t need or don’t use. 
-The virtual DOM is not tree-shakable because you will never know what you need until you hit the runtime. 
-This means that you have to send the whole thing instead of a smaller lighter version. 
-This has another obvious draw on your app’s performance in that your build ALWAYS has to include the whole virtual DOM. 
-For smaller apps, this can be pretty negligible, but if you have a large and complex application this can become a nightmare.
-      
+
       
 COMPLEXITY IS KEY
       

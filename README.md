@@ -5,7 +5,7 @@
 ### FEATURES
 
  👍 OS independent, runs in any browser on any device, offline and online.<br/>
- 👍 🚫❌NO Webserver, 🚫❌NO installation, just download and unzip the files in your chosen folder and open it in your browser.<br/>
+ 👍 🚫❌NO Webserver, 🚫❌NO installation, just download from the public cloud repository and unzip the files in your chosen folder and open it in your browser.<br/>
  👍 OFFLINE safe order/transaction SIGNING<br/>
  👍 ONLINE safe order [SUBMITTING](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-Payment.jpg) without secret keys<br/>
  👍 REGULARKEY alternative key<br/>

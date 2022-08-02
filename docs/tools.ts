@@ -11,7 +11,7 @@ class CTools {
 
     static async doNothingAtall(): Promise<CTools> {
         
-        console.log("(() => z1x.CTools.doNothingAtall())();");
+        console.log("(() => dummy.CTools.doNothingAtall())();");
         
         let x = new CTools();
  
@@ -24,7 +24,7 @@ class CTools {
 
 
 
-const z1x = { CTools: CTools }; // workaround javascript namespaces
+const dummy = { CTools: CTools }; // workaround javascript namespaces
 
 //
 // ENDOF DUMMY CODE

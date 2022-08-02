@@ -9,7 +9,8 @@
  ✓ Wietse XRPLLabs Tools:<br/>
     [xrpl client lib](https://xrpl.org/)<br/>
     [xrpl hooks online ide](http://hooks.xrpl.org)<br/>
-    xrpl-accountlib [github](https://github.com/WietseWind/xrpl-accountlib) [npmjs](https://www.npmjs.com/package/xrpl-accountlib)<br/>
+    xrpl-accountlib: [github](https://github.com/WietseWind/xrpl-accountlib) [npmjs](https://www.npmjs.com/package/xrpl-accountlib)<br/>
+    xrpl-secret-numbers: [github](https://github.com/WietseWind/xrpl-secret-numbers) [npmjs](https://www.npmjs.com/package/xrpl-secret-numbers)<br/>
     [many others](https://github.com/f1f47a23?tab=stars)<br/>
 
  ✓ Clean and simple asynchrony just using "async" & "await" <br/>

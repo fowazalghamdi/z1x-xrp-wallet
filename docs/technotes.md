@@ -8,7 +8,7 @@
 
  ✓ Wietse XRPLLabs Tools:<br/>
     [xrpl client lib](https://xrpl.org/) [g](https://github.com/XRPLF/xrpl.js) [g](https://github.com/XRPL-Labs/xrpl-client)<br/>
-    [xrpl hooks online ide](http://hooks.xrpl.org) xrpl-hooks: [g](https://github.com/RichardAH/xrpl.js)<br/>
+    xrpl hooks: [online ide](http://hooks.xrpl.org) [g](https://github.com/RichardAH/xrpl.js)<br/>
     xrpl-accountlib: [g](https://github.com/WietseWind/xrpl-accountlib) [n](https://www.npmjs.com/package/xrpl-accountlib)<br/>
     xrpl-secret-numbers: [g](https://github.com/WietseWind/xrpl-secret-numbers) [n](https://www.npmjs.com/package/xrpl-secret-numbers)<br/>
     xrpl-sign-keypairs: [g](https://github.com/XRPL-Labs/xrpl-sign-keypairs)<br>

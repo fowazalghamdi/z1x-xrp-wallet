@@ -12,7 +12,7 @@
  👍 OFFLINE safe order/transaction SIGNING<br/>
  👍 ONLINE safe order [SUBMITTING](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-Payment.jpg) without secret keys<br/>
  👍 REGULARKEY alternative key<br/>
- 👍 [MULTISIGN](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices ( [setMultisignPane](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg) )<br/>
+ 👍 [MULTISIGN](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices remote or local ( [setMultisignPane](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg) )<br/>
  🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
 
 <br/><br/>

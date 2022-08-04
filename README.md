@@ -20,7 +20,7 @@
 
 ### [REFERENCES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/awesome-references.md)
 
-### [LICENSE](https://github.com/f1f47a23/z1x-xrp-wallet/LICENSE)
+### [LICENSE](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/LICENSE)
 
 
 

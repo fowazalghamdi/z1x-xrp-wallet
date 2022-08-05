@@ -27,5 +27,5 @@
 <br/><br/><br/>
 ## Others:
 
- [REFERENCES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/awesome-references.md)
+ [REFERENCES](https://github.com/f1f47a23/AWESOME/blob/main/README.md)
 

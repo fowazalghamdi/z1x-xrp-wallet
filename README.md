@@ -11,7 +11,7 @@
    -    NO centralized APP STORE
 
 👎🚫❌ NO obscure install procedure 💩, <br/>
-    -   You have 100% total control of your files <br/>
+   -   You have 100% total control of your files:
        just download zip file from torrent p2p or public cloud storage or @ attachment or any other storage source, unzip the files in your chosen folder and open it in your browser.<br/>
        
 👍 OFFLINE safe order/transaction SIGNING<br/>

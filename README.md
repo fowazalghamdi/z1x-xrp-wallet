@@ -2,7 +2,7 @@
 # ☆꧁✬◦°˚°◦. z1x-xrp-wallet .◦°˚°◦✬꧂☆
 
 <br/><br/><br/>
-## Private ripple / xrp wallet & explorer<br/>
+## Private xrp (ripple) wallet & explorer<br/>
 
 <br/><br/><br/>
 ### FEATURES ︻╦̵̵̿╤─ ҉~•

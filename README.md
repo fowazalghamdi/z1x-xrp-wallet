@@ -1,9 +1,10 @@
 
 # ☆꧁✬◦°˚°◦. z1x-xrp-wallet .◦°˚°◦✬꧂☆
 
+<br/><br/><br/>
 ## Private ripple / xrp wallet & explorer<br/>
 
-<br/><br/>
+<br/><br/><br/>
 ### FEATURES ︻╦̵̵̿╤─ ҉~•
 
 👍 OS independent, runs in any browser on any device, offline and online.<br/>

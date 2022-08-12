@@ -15,7 +15,7 @@
 
 👎🚫❌ NO obscure install procedure 💩, <br/>
    -   You have 100% total control of your files:
-       just download zip🗎 file from wherever the 𝕱𝖀𝕮𝕶☁ you want, unzip the files wherever the 𝕱𝖀𝕮𝕶📂 you want, and open it in your browser.<br/>
+       just download zip🗎 file from wherever the 𝕱𝖀𝕮𝕶☁ you want, unzip the files where the 𝕱𝖀𝕮𝕶📂 you like, and open it in your browser.<br/>
        
 👍 OFFLINE safe order/transaction SIGNING<br/>
 

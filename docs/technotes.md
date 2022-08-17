@@ -1,8 +1,8 @@
 
-## Tech notes:
+## TECH NOTES:
 
 
-### TOOLS:
+### Tools:
 
  ✓ Just vanilla typescript(dev), es2020, html, bootstrap, nodejs(dev), npm(dev), visual studio code(dev)<br/>
 

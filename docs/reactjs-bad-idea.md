@@ -13,7 +13,7 @@ This means that whole sections of HTML code is written in files where it does no
 function of jQuery or other functions which output the code.<br>
 Mixing Html with JS code is a **[very very very bad idea](https://youtu.be/eKQ6JnmvNfA)**.
       
-<br><br>
+<br>
 ### IT's NOT STANDARDS COMPLIANT 
       
 One of the most basic of Web Standards is that all websites must load 70-80% of the content 
@@ -23,7 +23,7 @@ Functions are available to run the initial page load on the server and serve tha
 however anything that happens after this will now function. 
 This means that if the user decides to have JavaScript disabled, the site will not function correctly.
      
-     
+<br>
      
      
 ### IT's UNNECESSARILY LARGE 
@@ -32,7 +32,7 @@ The basic file size of React is over 100kb. That’s just the basic file size!
 To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
 It really isn’t worth the extra bloat it adds to websites… just to create a view layer on the front-end. 
 
-
+<br>
 
 ### REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
       
@@ -66,7 +66,7 @@ This means that you have to send the whole thing instead of a smaller lighter ve
 This has another obvious draw on your app’s performance in that your build ALWAYS has to include the whole virtual DOM. 
 For smaller apps, this can be pretty negligible, but if you have a large and complex application this can become a nightmare.
       
-      
+<br>
       
 ### IT's SUPER SLOW
       
@@ -77,7 +77,7 @@ Page load speeds can have a detrimental effect on the SEO of the website,
 causing visitors to leave the site and look elsewhere for the information they were trying to find.
       
       
-      
+<br>
       
       
 ### IT's 90% THE WRONG CONTEXT TO USE IT
@@ -91,7 +91,7 @@ so there won’t be anything on the website that can’t be done in a more versa
 Use languages that are suited to the website, and the page will  load faster, 
 use semantically correct code, comply with Web Standards, and not have any code that does not serve a viable purpose.
       
- 
+<br>
 ### IT'S PURE CR4P
       
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. 
@@ -100,7 +100,7 @@ I really want to emphasize that I’m not trying to attack you personally becaus
 However, what I am trying to say is that I think that React leaves a lot to be desired. 
 What I want to do is explore the pain points and detail why I think React is an overall flawed library.
       
-      
+<br>
 ### IT's MOSTLY HYPE
       
 In the business world of upper managers React has become something of a buzzword. 
@@ -135,7 +135,7 @@ Often time when that happens what do you do? You jerry-rig it up until it works 
       
       
 
-      
+<br>
 ### COMPLEXITY IS KEY
       
 If you’ve ever worked on a large application that is fairly complex, 
@@ -152,7 +152,7 @@ This is bad for both your users and your developers.
 I’ve seen this very thing play out numerous times with the same result every time: 
 we get a large complex application that is hellish to work and functions poorly.
       
-      
+<br>
 ### APPLIANCES SOLD SEPARATELY
       
 I mentioned React is a library, but what does that mean for us? Basically, 
@@ -177,7 +177,7 @@ That is, React doesn’t give you everything you need but forces you to tac on b
 In contrast, a framework like Angular comes with all that stuff built into it. 
 With Angular, you don’t have to download any 3rd party form handling or testing frameworks or libraries for example.
       
-      
+<br>
 ### UPGRADES NIGHTMARE
       
 Version updates happen to us all. 
@@ -191,7 +191,7 @@ they do so in a way that forces us to rewrite either large portions of our code 
 I think this has been a common criticism of Facebook's maintenance of the library and something 
 I think only adds stress to the lives of the developers using it.
       
-      
+<br>
 ### IT's a WRAP
       
 I think React has a place in the world of front-end development, 

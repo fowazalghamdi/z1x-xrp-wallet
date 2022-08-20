@@ -103,8 +103,8 @@ What I want to do is explore the pain points and detail why I think React is an 
 ### IT's MOSTLY HYPE
       
 In the business world of upper managers React has become something of a buzzword. 
-I have worked for several companies that have had upper managers that decided that every front-end is going to use React 
-for no other reason than they think it’s popular. Don't forget: the majority is always wrong. 
+I have worked for several companies that have had **upper managers that decided that every front-end is going to use React 
+for no other reason than they think it’s popular. Don't forget: [the majority is always wrong](https://youtu.be/KiszaMhevsQ)**. 
 Right away whenever you have non-technical upper managers making development decisions you know nothing good is going to come out of it. 
 While React may be popular, I don’t think you can say that it’s the right thing to use based ONLY on its popularity.
 Why would upper management be making these decisions? Well, they figure that since React is popular it must be easy to hire React developers. 

@@ -1,9 +1,5 @@
 
 
-
-
-****************************************************************************************************************
-
 #  WHY SHOULD YOU NEVER USE REACTJS?  
       
       
@@ -17,7 +13,7 @@ function of jQuery or other functions which output the code.<br>
 Mixing Html with JS code is a [very very very bad idea](https://youtu.be/eKQ6JnmvNfA).
       
       
-IT's NOT STANDARDS COMPLIANT 
+### IT's NOT STANDARDS COMPLIANT 
       
 One of the most basic of Web Standards is that all websites must load 70-80% of the content 
 on every page correctly when JavaScript is disabled. 
@@ -29,7 +25,7 @@ This means that if the user decides to have JavaScript disabled, the site will n
      
      
      
-IT's UNNECESSARILY LARGE 
+### IT's UNNECESSARILY LARGE 
     
 The basic file size of React is over 100kb. That’s just the basic file size! 
 To make it anything like suitable to use on a website, extra files need to be included to allow it to do anything. 
@@ -37,7 +33,7 @@ It really isn’t worth the extra bloat it adds to websites… just to create a 
 
 
 
-REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
+### REACTJS IS FAT AND EATS YOUR RAM FOR BREAKFAST
       
 Many people think that React is unique because it uses virtual DOM for rendering. 
 What you may not realize, is that React and the virtual DOM are 2 separate concepts entirely. 
@@ -71,7 +67,7 @@ For smaller apps, this can be pretty negligible, but if you have a large and com
       
       
       
-IT's SUPER SLOW
+### IT's SUPER SLOW
       
 When using React, page load speeds are greatly reduced. 
 This is because JavaScript functions are running in the browser to load 
@@ -83,7 +79,7 @@ causing visitors to leave the site and look elsewhere for the information they w
       
       
       
-IT's 90% THE WRONG CONTEXT TO USE IT
+### IT's 90% THE WRONG CONTEXT TO USE IT
       
 React is built for Web Apps! These are applications that run in the browser that process ‘big data’, 
 and have constantly refreshing elements of the page. Facebook is a Web App, 
@@ -95,7 +91,7 @@ Use languages that are suited to the website, and the page will  load faster,
 use semantically correct code, comply with Web Standards, and not have any code that does not serve a viable purpose.
       
  
-IT'S PURE CR4P
+### IT'S PURE CR4P
       
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. 
 I would ask that you read my full explanation before going off at me in the comments. 
@@ -104,7 +100,7 @@ However, what I am trying to say is that I think that React leaves a lot to be d
 What I want to do is explore the pain points and detail why I think React is an overall flawed library.
       
       
-IT's MOSTLY HYPE
+### IT's MOSTLY HYPE
       
 In the business world of upper managers React has become something of a buzzword. 
 I have worked for several companies that have had upper managers that decided that every front-end is going to use React 
@@ -139,7 +135,7 @@ Often time when that happens what do you do? You jerry-rig it up until it works 
       
 
       
-COMPLEXITY IS KEY
+### COMPLEXITY IS KEY
       
 If you’ve ever worked on a large application that is fairly complex, 
 you’ll recognize that standards are the key to ensuring that you don’t hate your life. 
@@ -156,7 +152,7 @@ I’ve seen this very thing play out numerous times with the same result every t
 we get a large complex application that is hellish to work and functions poorly.
       
       
-APPLIANCES SOLD SEPARATELY
+### APPLIANCES SOLD SEPARATELY
       
 I mentioned React is a library, but what does that mean for us? Basically, 
 it means that React is going to give you some minor functionality and then leave you to it. 
@@ -181,7 +177,7 @@ In contrast, a framework like Angular comes with all that stuff built into it.
 With Angular, you don’t have to download any 3rd party form handling or testing frameworks or libraries for example.
       
       
-UPGRADES NIGHTMARE
+### UPGRADES NIGHTMARE
       
 Version updates happen to us all. 
 One second we’re on version 1.0.0 and all of a sudden version 2.0.0 has just hit and it’s shiny and new and we just want to play with it. 
@@ -195,7 +191,7 @@ I think this has been a common criticism of Facebook's maintenance of the librar
 I think only adds stress to the lives of the developers using it.
       
       
-IT's a WRAP
+### IT's a WRAP
       
 I think React has a place in the world of front-end development, 
 but I think it’s vastly overused in places it just doesn’t belong. 
@@ -214,5 +210,5 @@ it becomes a problem for the app’s stability as well as the stress levels of y
  
  
  
- ****************************************************************************************************************
+
 

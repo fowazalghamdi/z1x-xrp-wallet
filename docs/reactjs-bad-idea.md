@@ -14,6 +14,7 @@ function of jQuery or other functions which output the code.<br>
 Mixing Html with JS code is a **[very very very bad idea](https://youtu.be/eKQ6JnmvNfA)**.
       
 <br>
+
 ### IT's NOT STANDARDS COMPLIANT 
       
 One of the most basic of Web Standards is that all websites must load 70-80% of the content 
@@ -92,6 +93,7 @@ Use languages that are suited to the website, and the page will  load faster,
 use semantically correct code, comply with Web Standards, and not have any code that does not serve a viable purpose.
       
 <br>
+
 ### IT'S PURE CR4P
       
 Before we even get started I can already hear you pounding away at your keyboards writing your angry response. 
@@ -101,6 +103,7 @@ However, what I am trying to say is that I think that React leaves a lot to be d
 What I want to do is explore the pain points and detail why I think React is an overall flawed library.
       
 <br>
+
 ### IT's MOSTLY HYPE
       
 In the business world of upper managers React has become something of a buzzword. 
@@ -136,6 +139,7 @@ Often time when that happens what do you do? You jerry-rig it up until it works 
       
 
 <br>
+
 ### COMPLEXITY IS KEY
       
 If you’ve ever worked on a large application that is fairly complex, 
@@ -153,6 +157,7 @@ I’ve seen this very thing play out numerous times with the same result every t
 we get a large complex application that is hellish to work and functions poorly.
       
 <br>
+
 ### APPLIANCES SOLD SEPARATELY
       
 I mentioned React is a library, but what does that mean for us? Basically, 
@@ -178,6 +183,7 @@ In contrast, a framework like Angular comes with all that stuff built into it.
 With Angular, you don’t have to download any 3rd party form handling or testing frameworks or libraries for example.
       
 <br>
+
 ### UPGRADES NIGHTMARE
       
 Version updates happen to us all. 
@@ -192,6 +198,7 @@ I think this has been a common criticism of Facebook's maintenance of the librar
 I think only adds stress to the lives of the developers using it.
       
 <br>
+
 ### IT's a WRAP
       
 I think React has a place in the world of front-end development, 

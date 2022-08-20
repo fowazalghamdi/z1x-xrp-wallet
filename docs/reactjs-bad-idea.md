@@ -8,9 +8,9 @@
       
 All of the code that creates the components that are rendered to the browser are written in JavaScript files. 
 This means that whole sections of HTML code is written in files where it does not belong!!!!!!! 
-Only the smallest snippets of HTML are acceptable in a JavaScript file, when used within the $.html(); 
+**Only the smallest snippets of HTML are acceptable in a JavaScript file**, when used within the $.html(); 
 function of jQuery or other functions which output the code.<br>
-Mixing Html with JS code is a [very very very bad idea](https://youtu.be/eKQ6JnmvNfA).
+Mixing Html with JS code is a **[very very very bad idea](https://youtu.be/eKQ6JnmvNfA)**.
       
       
 ### IT's NOT STANDARDS COMPLIANT 

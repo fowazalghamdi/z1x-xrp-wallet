@@ -8,7 +8,7 @@
       
       
       
-IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
+## IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
       
 All of the code that creates the components that are rendered to the browser are written in JavaScript files. 
 This means that whole sections of HTML code is written in files where it does not belong!!!!!!! 

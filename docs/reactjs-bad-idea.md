@@ -2,10 +2,8 @@
 
 #  WHY SHOULD YOU NEVER USE REACTJS?  
       
-<br>      
-<br>      
-<br>      
-<br>
+<br><br><br><br>      
+
       
 ### IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
       
@@ -15,7 +13,7 @@ This means that whole sections of HTML code is written in files where it does no
 function of jQuery or other functions which output the code.<br>
 Mixing Html with JS code is a **[very very very bad idea](https://youtu.be/eKQ6JnmvNfA)**.
       
-      
+<br><br>
 ### IT's NOT STANDARDS COMPLIANT 
       
 One of the most basic of Web Standards is that all websites must load 70-80% of the content 

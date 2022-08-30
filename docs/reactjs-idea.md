@@ -217,8 +217,8 @@ it becomes a problem for the app’s stability as well as the stress levels of y
 
 # So you think you should stop using React?
 
-### You’re so wrong. Let me explain...](https://youtu.be/KXwqUMkXFiI)
-
+### [You’re so wrong. Let me explain...](https://youtu.be/KXwqUMkXFiI)
+ 
 
 <br><br><br><br>
 

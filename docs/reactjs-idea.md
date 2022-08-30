@@ -212,8 +212,15 @@ When you want to do major version upgrades you’re probably going to end up re-
 or just rewriting the codebase entirely. This would be fine for a small app, 
 but when companies force developers to go and use React, 
 it becomes a problem for the app’s stability as well as the stress levels of your developers.
- 
- 
+
+<br><br><br><br>
+
+# [So you think you should stop using React? You’re wrong](https://youtu.be/KXwqUMkXFiI)
+
+
+<br><br><br><br>
+
+
  
  
  

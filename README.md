@@ -25,7 +25,7 @@
 
 👍 [MULTISIGN](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices remote or local ([setMultisignPane](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg))<br/>
 
-🚧👷🛠️ ***HOOKS***: the safe native essential smart contracts for xrp cryptocurrency<br/>
+🚧👷🛠️ ***HOOKS***: the safe native bespoke light smart contracts for xrp cryptocurrency<br/>
 
 <br/><br/>
 ### [TECH NOTES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes.md)

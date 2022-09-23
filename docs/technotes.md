@@ -12,7 +12,7 @@
 
  ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git~~ 4 now.<br/>
 
- 🚫❌⛔👎 WebServer   💩 [~~React/React Native~~](reactjs-idea.md)   😭 ~~Angular~~   🦴  ~~Webpack~~   ⌛ ~~Jquery~~ 🗑️ all in the trash<br/>
+ 🚫❌⛔👎 ~~WebServer~~   💩 [~~React/React Native~~](reactjs-idea.md)   😭 ~~Angular~~   🦴  ~~Webpack~~   ⌛ ~~Jquery~~ 🗑️ all in the trash<br/>
  
  
  

@@ -1,6 +1,6 @@
 
 
-#  WHY SHOULD YOU NEVER USE REACTJS?  
+#  💩 WHY SHOULD YOU NEVER USE REACTJS? 💩
 
 <br><br>
 

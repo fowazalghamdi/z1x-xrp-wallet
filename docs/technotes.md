@@ -13,12 +13,12 @@
  ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git~~ 4 now.<br/>
 
  .🚫❌⛔👎.<br>
-    - 👁️ ~~WebServer~~   
-    - 💩 [~~React/React Native~~](reactjs-idea.md)   
-    - 😭 ~~Angular~~   
-    - 🦴  ~~Webpack~~   
+    - 👁️⃤ ~~WebServer~~ 👁️⃤
+    - 💩 [~~React/React Native~~](reactjs-idea.md) 💩  
+    - 😭 ~~Angular~~ 😭
+    - 🦴  ~~Webpack~~ 🦴
     - 🪦 [~~Jquery~~](https://thelicato.medium.com/jquery-is-useless-in-2022-65f5bab3177)✟<br/> 
-    - 🗑️ all in the trash
+    - 🗑️ all in the trash 🗑️
  
  
  

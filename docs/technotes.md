@@ -17,7 +17,7 @@
     - 💩 [~~React/React Native~~](reactjs-idea.md)   
     - 😭 ~~Angular~~   
     - 🦴  ~~Webpack~~   
-    - 🪦 [~~Jquery~~](https://thelicato.medium.com/jquery-is-useless-in-2022-65f5bab3177)<br/> 
+    - 🪦 [~~Jquery~~](https://thelicato.medium.com/jquery-is-useless-in-2022-65f5bab3177)✟<br/> 
     - 🗑️ all in the trash
  
  

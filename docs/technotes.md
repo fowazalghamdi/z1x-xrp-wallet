@@ -13,7 +13,7 @@
  ✋ No need of ~~Chrome Engine~~  ~~Babel~~ & ~~git~~ 4 now.<br/>
 
  .🚫❌⛔👎.<br>
-    - 👁️⃤ ~~WebServer~~ 👁️⃤.<br>
+    - 👁️⃤   ~~WebServer~~ 👁️⃤.<br>
     - 💩 [~~React/React Native~~](reactjs-idea.md) 💩.<br>
     - 😭 ~~Angular~~ 😭.<br>
     - 🦴  ~~Webpack~~ 🦴.<br>

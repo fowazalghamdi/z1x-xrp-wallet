@@ -4,10 +4,6 @@
 
 <br><br>
 
-## [Don't follow the herd of the animal farm](https://youtu.be/ShB9ZONCITE)
-       
-<br><br><br><br>      
-
 
       
 ### IT's NOT SEMANTICALLY CORRECT CODE !!!!!!!!!!
@@ -217,14 +213,10 @@ or just rewriting the codebase entirely. This would be fine for a small app,
 but when companies force developers to go and use React, 
 it becomes a problem for the app’s stability as well as the stress levels of your developers.
 
-<br><br><br><br>
+<br><br>
 
-# So you think you should stop using React?
 
-### [You’re so wrong. Let me explain...](https://youtu.be/KXwqUMkXFiI)
- 
 
-<br><br><br><br>
 
 
  

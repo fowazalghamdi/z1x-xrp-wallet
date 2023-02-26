@@ -14,7 +14,7 @@
 
  .🚫❌⛔👎.<br>
     - 👁️⃤   ~~WebServer~~ 👁️⃤.<br>
-    - 💩 [~~React/React Native~~](/f1f47a23/AWESOME/blob/main/docs/dev/reactjs.md) 💩.<br>
+    - 💩 [~~React/React Native~~](https://github.com/f1f47a23/AWESOME/blob/main/docs/dev/reactjs.md) 💩.<br>
     - 😭 ~~Angular~~ 😭.<br>
     - 🦴  ~~Webpack~~ 🐕.<br>
     - 🪦 [~~Jquery~~](https://thelicato.medium.com/jquery-is-useless-in-2022-65f5bab3177)✟<br> 

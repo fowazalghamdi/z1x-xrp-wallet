@@ -23,7 +23,7 @@
 
 👍 [REGULARKEY](https://xrpl.org/cryptographic-keys.html#regular-key-pair) alternative key<br/>
 
-👍 [MULTISIGN](https://xrpl.org/multi-signing.html) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) feature by optionally running copies of the app on multiple devices remote or local ([setMultisignPane](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg))<br/>
+👍 [MULTISIGN](https://xrpl.org/multi-signing.html) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg) feature by optionally running copies of the app on multiple devices remote or local <br/>
 
 👍 [TICKETS](https://xrpl.org/tickets.html) <br/>
 

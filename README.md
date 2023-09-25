@@ -7,7 +7,7 @@
 <br/><br/>
 ### FEATURES ︻╦̵̵̿╤─ ҉~•
 
-👍 OS independent, runs in any browser on any device, offline and online.<br/>
+👍 OS independent, runs in any browser (TOR), any OS (TAILS) on any device, offline and online.<br/>
 
 👎🚫❌ NO Centralized Orwell Authority 💩<br/>
    -    NO Webserver, NO dns ƧΉIƬ 

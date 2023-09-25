@@ -17,15 +17,15 @@
    -   You have 100% total control of your files:
        just download zip🗎 file from wherever the 𝕱𝖀𝕮𝕶☁ you want, unzip the files where the 𝕱𝖀𝕮𝕶📂 you like, and open it in your browser.<br/>
        
-👍 OFFLINE safe order/transaction SIGNING<br/>
+👍 **OFFLINE** safe order/transaction SIGNING<br/>
 
-👍 ONLINE safe order SUBMITTING [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-Payment.jpg) without secret keys<br/>
+👍 **ONLINE** safe order submitting [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-Payment.jpg) **WITHOUT** secret keys<br/>
 
-👍 [REGULARKEY](https://xrpl.org/cryptographic-keys.html#regular-key-pair) alternative key<br/>
+👍 [**REGULARKEY**](https://xrpl.org/cryptographic-keys.html#regular-key-pair) alternative key<br/>
 
-👍 [MULTISIGN](https://xrpl.org/multi-signing.html) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg) feature by optionally running copies of the app on multiple devices remote or local <br/>
+👍 [**MULTISIGN**](https://xrpl.org/multi-signing.html) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/z1x-wallet-multisig.jpg) [🖼](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/screenshot-SetMultisign.jpg) feature by optionally running copies of the app on multiple devices remote or local <br/>
 
-👍 [TICKETS](https://xrpl.org/tickets.html) <br/>
+👍 [**TICKETS**](https://xrpl.org/tickets.html) <br/>
 
 🚧👷🛠️ ***HOOKS*** <sup>***`⚠️ SUSPENDED`***</sup>: the safe native bespoke lite smart contracts for xrp cryptocurrency <br/>
 

@@ -27,7 +27,7 @@
 
 👍 [**TICKETS**](https://xrpl.org/tickets.html) <br/>
 
-🚧👷🛠️ ***HOOKS*** <sup>***`⚠️ SUSPENDED`***</sup>: the safe native bespoke lite smart contracts for xrp cryptocurrency <br/>
+🚧👷🛠️ ***HOOKS/XAHAU/SIDECHAIN*** <sup>***`⚠️ SUSPENDED`***</sup>: the safe native bespoke lite smart contracts for xrp cryptocurrency <br/>
 
 <br/><br/>
 ### [TECH NOTES](https://github.com/f1f47a23/z1x-xrp-wallet/blob/main/docs/technotes.md)

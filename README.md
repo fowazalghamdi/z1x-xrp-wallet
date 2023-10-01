@@ -27,6 +27,8 @@
 
 👍 [**TICKETS**](https://xrpl.org/tickets.html) <br/>
 
+👍 [**CHECKS**](https://xrpl.org/checks.html) <br/>
+
 🚧👷🛠️ ***HOOKS/XAHAU/SIDECHAIN*** <sup>***`⚠️ SUSPENDED`***</sup>: the safe native bespoke lite smart contracts for xrp cryptocurrency <br/>
 
 <br/><br/>

@@ -20,7 +20,8 @@
     - 🪦 [~~Jquery~~](https://thelicato.medium.com/jquery-is-useless-in-2022-65f5bab3177)✟<br> 
     - 🗑️ all in the trash 🗑️.
 
-    <sub>*policy: [Open-Binary-Code](https://hexed.it/)*</sub>
+
+<sub>*policy: [Open-Binary-Code](https://hexed.it/)*</sub>
  
  
  

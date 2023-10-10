@@ -21,7 +21,7 @@
     - 🗑️ all in the trash 🗑️.
 
 
-<sub>*policy: [Open-Binary-Code](https://hexed.it/)*</sub>
+
  
  
  
